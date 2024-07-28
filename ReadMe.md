@@ -13,7 +13,7 @@ The baseURL in the playwright.config.js
 
 #### Improvements
 
-Credentials can be stored in env. files
+Credentials can be stored in environment variables or configuration files.
 
 #### Reason behind my choice of technologies
 
